@@ -2,14 +2,11 @@
   
 
 <div align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhayakumara-basutakara-08776a168/" target="_blank">
+<a href="https://linkedin.com/in/abhayakumara-basutakara-08776a168" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/https://github.com/abhayakumara" target="_blank">
+<a href="https://github.com/abhayakumara" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/https://abhayakumara-portfolio.vercel.app/" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
@@ -23,7 +20,9 @@ developing software solutions using Java, Spring Boot, and React frameworks. Dem
 proficiency in designing and implementing scalable, efficient, and maintainable software. Flexible
 engineer with a proven track record of seamlessly integrating into multiple teams. Dedicated to
 remaining current with emerging technologies and actively engaging with cross-functional teams to
-drive the innovation of cutting-edge products at the forefront of the industry.  
+drive the innovation of cutting-edge products at the forefront of the industry.
+
+More about me in my [portfolio app](https://abhayakumara-portfolio.vercel.app/).  
   
 
 <br/>  
