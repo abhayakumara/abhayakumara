@@ -22,7 +22,7 @@ engineer with a proven track record of seamlessly integrating into multiple team
 remaining current with emerging technologies and actively engaging with cross-functional teams to
 drive the innovation of cutting-edge products at the forefront of the industry.
 
-More about me in my [portfolio app](https://abhayakumara-portfolio.vercel.app/).  
+More about me in my [portfolio](https://abhayakumara-portfolio.vercel.app/).  
   
 
 <br/>  
